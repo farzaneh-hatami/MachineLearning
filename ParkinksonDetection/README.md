@@ -32,17 +32,23 @@ To reaching better perforamnce we also implemented ensemble models.
 ## Result:
 The best performance was related to the ensemble model using KNN algorithm, whose accuracy was equal to 96,10%. The results of the rest of the models are available in the table below.
 
+Generative Classifier : 
 
-            | Algorithms      | Accuracy% |
-------------| ----------- | ----------- |
- Generative | Parzen windows
- Classifier | KNN
-            | GMM
-------------|-----------------------------
-            | Logistic regression      | 87,23       |
-            | SVM   | 93,97        |
-            | Decision Tree   | 84,04        |
-            | KNN(K=1)   | 94,33        |
-            | MLP   | 91,84        |
-            | RBF   | 93,26        |
-            | Ensemble   | 96,10        |
+
+
+| Algorithms      | Accuracy% |
+| ---- | ---- | 
+| Parzen windows|  95.5  |
+| KNN     | 96.4   |
+| GMM      |   94.2  |
+
+Discriminative Classifier: 
+
+| Algorithms      | Accuracy% |
+|----            |----   |
+| Logistic regression      | 85.3      |
+| SVM   | 96      |
+| Decision Tree   | 85.3        |
+| KNN(K=1)   | 96.9        |
+| MLP   | 96       |
+

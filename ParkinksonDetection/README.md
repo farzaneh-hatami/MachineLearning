@@ -30,7 +30,7 @@ To reaching better perforamnce we also implemented ensemble models.
 
 
 ## Result:
-The best performance was related to the ensemble model using KNN algorithm, whose accuracy was equal to 96,10%. The results of the rest of the models are available in the table below.
+The best performance was related to the Discriminative KNN, whose accuracy was equal to 96.9%. The results of the rest of the models are available in the table below.
 
 Generative Classifier : 
 

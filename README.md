@@ -5,4 +5,4 @@ in Machine Learning to Detecting Parkinson disease using signals of speech data 
 
 # List of Contents
 ## Parkinson Detection
-- [Parkinson detection](https://github.com/farzaneh-hatami/MachineLearning/tree/9a87753d9ccb64dc118aa5c008d237f313794cec/ParkinksonDetection)
+- [Parkinson detection using ensemble learning](https://github.com/farzaneh-hatami/MachineLearning/tree/9a87753d9ccb64dc118aa5c008d237f313794cec/ParkinksonDetection)
